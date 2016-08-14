@@ -1,0 +1,17 @@
+Frontend will have basic blog features, displaying posts, searching, tags etc. I will try to only use jquery for libraries.
+
+Editing will be done on the backend using vim for post creation and updates. I am doing it this way to use vim even more. I will be using markdown so that I can easily convert posts to html.
+
+Some sort of server side toolset will be needed for publishing and editing posts. This should be easy to do in node. I will just need to review files in a directory. Format them, and send to mysql.
+
+Database will be sql based. I haven't decided if i want to store the posts directly in the database or just store links to the html files.
+
+Tracer bullet (minimal version)
+	*I can write plain text posts in vim
+	*I can publish them to the server.
+	*I can pull posts from database and display them.
+
+
+
+
+
